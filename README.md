@@ -14,9 +14,9 @@
 <p align="left">
 <a href="https://twitter.com/ucjeewantha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ucjeewantha" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/charith-jeewantha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="charith-jeewantha" height="30" width="40" /></a>
-<a href="https://fb.com/charith jeewantha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="charith jeewantha" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100010263101822" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="charith jeewantha" height="30" width="40" /></a>
 <a href="https://instagram.com/charith_jeewantha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="charith_jeewantha" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/charith jeewantha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="charith jeewantha" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCHBYS8A8_oc5EaB8X4sddTg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="charith jeewantha" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ucjeewantha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ucjeewantha" height="30" width="40" /></a>
 </p>
 
@@ -25,6 +25,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ucjeewantha&show_icons=true&locale=en&layout=compact" alt="ucjeewantha" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ucjeewantha&show_icons=true&locale=en" alt="ucjeewantha" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ucjeewantha&show_icons=true&locale=en" alt="ucjeewantha" /></p><br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ucjeewantha&" alt="ucjeewantha" /></p>
